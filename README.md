@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- I’m currently learning coding rn at a Beginner.
+- I’m currently working on "popbas".It's like Popcat but me instead of the Cat.
+- I’m looking for help with coding.
 <!--
 **delsinzz/delsinzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
